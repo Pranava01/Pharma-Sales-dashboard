@@ -4,6 +4,10 @@ An interactive Power BI analytics solution designed to track, monitor, and analy
 
 ---
 
+## 🎮 Live Dashboard
+
+Explore the live dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiM2EzM2Y2MjgtNmZlZi00MzVmLTk4ZTQtNTlmYWVmODg1NGQxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
+
 ## 📊 Dashboard Overview
 
 ### 1. Sales Overview

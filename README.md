@@ -9,14 +9,21 @@ An interactive Power BI analytics solution designed to track, monitor, and analy
 ### 1. Sales Overview
 Monitors core business metrics, inventory KPIs, and detailed transaction-level product data.
 ![Sales Overview](assets/sales_overview.png)
+<img width="1337" height="743" alt="Screenshot 2026-09-10 151536" src="https://github.com/user-attachments/assets/4e5f8f78-f93b-43eb-8bc5-88b5af7998b5" />
+
+
 
 ### 2. Sales Performance Analysis
 Visualizes sales trends across categories, manufacturers, geographic regions, and sales reps.
 ![Sales Performance](assets/sales_performance.png)
+<img width="1322" height="717" alt="Screenshot 2026-09-10 151606" src="https://github.com/user-attachments/assets/879a39f2-0266-4891-a39a-ba1d5c054d2f" />
+
 
 ### 3. Inventory Snapshot
 Tracks monthly trends across total stock, stock sold, available stock, and return metrics.
 ![Inventory Snapshot](assets/inventory_snapshot.png)
+<img width="1325" height="740" alt="image" src="https://github.com/user-attachments/assets/55b0d532-11e1-457d-b312-387c6b594477" />
+
 
 ---
 
